@@ -5,3 +5,6 @@ Aluda de Java SENAI
 
 
 Turma QUA_209_048
+
+
+Testando, novamente para executar a atividade de treinamento.
